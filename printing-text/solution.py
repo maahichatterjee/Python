@@ -10,4 +10,4 @@ Solution by NeetCode GitHub Pusher
 
 
 #alternate way:-#alternate way:-
-print ("My favourite quote is 'To be or not to be.'")print ("My favourite quote is 'To be or not to be.'")
+print (" My favourite quote is '"To be or not to be."' ")print (" My favourite quote is '"To be or not to be."' ")
