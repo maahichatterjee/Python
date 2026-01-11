@@ -19,3 +19,4 @@ print(msg2)print(msg2)
 print(msg3)print(msg3)
 print(msg4)print(msg4)
 print(msg5)print(msg5)
+msg1, msg2 = msg2, msg1msg1, msg2 = msg2, msg1
