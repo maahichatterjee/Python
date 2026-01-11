@@ -8,6 +8,6 @@ Solution by NeetCode GitHub Pusher
 
 #print("My favorite quote is \"To be or not to be.\"")#print("My favorite quote is \"To be or not to be.\"")
 
-print ("My Favourite quote is 'to be or not be'")print ("My Favourite quote is 'to be or not be'")
 
 #alternate way:-#alternate way:-
+print ("My Favourite quote is 'To be or not to be'")print ("My Favourite quote is 'To be or not to be'")
