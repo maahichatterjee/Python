@@ -7,4 +7,4 @@ Solution by NeetCode GitHub Pusher
 """
 
 var = None ;var = None ;
-print (typeof(var))print (typeof(var))
+print (type(var))print (type(var))
