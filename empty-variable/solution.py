@@ -6,5 +6,5 @@ Language: python
 Solution by NeetCode GitHub Pusher
 """
 
-var = None ;var = None ;
-print (type(var))print (type(var))
+var = None var = None 
+print(type(var))print(type(var))
