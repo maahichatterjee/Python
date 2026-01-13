@@ -14,10 +14,10 @@ product = a*bproduct = a*b
 print (product // c)print (product // c)
 
 #2. The remainder of the product of a and b divided by c#2. The remainder of the product of a and b divided by c
-product % cproduct % c
+print (product % c)print (product % c)
 
 #3.The result of raising a to the power of b.#3.The result of raising a to the power of b.
-a ** ba ** b
+print (a ** b)print (a ** b)
 
 #4. The result of raising b to the power of c.#4. The result of raising b to the power of c.
-b ** cb ** c
+print (b ** c)print (b ** c)
