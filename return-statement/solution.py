@@ -7,9 +7,10 @@ Solution by NeetCode GitHub Pusher
 """
 
 def product(a, b):def product(a, b):
+
+# don't modify below this line# don't modify below this line
+print(product(2, 4))print(product(2, 4))
+print(product(8, 2))print(product(8, 2))
+print(product(4, 8))print(product(4, 8))
+print(product(8, 8))print(product(8, 8))
     return a*b    return a*b
-
-result = product(3, 5)result = product(3, 5)
-
-
-print(result)print(result)
