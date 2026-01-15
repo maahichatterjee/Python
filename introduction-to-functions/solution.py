@@ -10,8 +10,8 @@ def greet():def greet():
     print("Hello, World!")    print("Hello, World!")
 
 def say_goodbye():def say_goodbye():
+    print("Goodbye, World")    print("Goodbye, World")
 
 # don't modify below this line# don't modify below this line
 greet()greet()
 say_goodbye()say_goodbye()
-    print("goodbye, world")    print("goodbye, world")
