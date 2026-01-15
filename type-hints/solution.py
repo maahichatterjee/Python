@@ -10,4 +10,4 @@ def greet(name: str) -> None:def greet(name: str) -> None:
     print("Hello, " + name)    print("Hello, " + name)
 
 greet("NeetCode")greet("NeetCode")
-type(greet)type(greet)
+type()type()
