@@ -7,8 +7,3 @@ Solution by NeetCode GitHub Pusher
 """
 
 def greet(name: str) -> None:def greet(name: str) -> None:
-    print("Hello, " + name)    print("Hello, " + name)
-
-
-value = greet("NeetCode")value = greet("NeetCode")
-print (type(value))print (type(value))
