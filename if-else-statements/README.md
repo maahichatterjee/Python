@@ -10,7 +10,9 @@ It's common to want to run a separate piece of code when an if statement fails t
 
 The above code will print "Account is in good standing." because the balance is greater than or equal to 0. The first if statement will not execute because the condition is False. But we can rewrite this code using an else statement:
 
-This code is mostly equivalent to the first example. But the else block only executes if previous if statement fails to execute. We cannot have an else statement without an if statement preceding it. Conditional statements like if and else can also be used to add multiple return statements within the same function as shown below.
+This code is mostly equivalent to the first example. But the else block only executes if previous if statement fails to execute. We cannot have an else statement without an if statement preceding it.
+
+Conditional statements like if and else can also be used to add multiple return statements within the same function as shown below.
 
 The function above will return the maximum of two numbers. If a is greater than b, the function will return a. Otherwise, it will return b. Once a return statement is executed, the function will stop executing.
 
