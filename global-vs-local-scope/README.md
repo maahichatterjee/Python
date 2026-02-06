@@ -10,7 +10,9 @@ Here are a few more examples illustrating scope in Python:
 
 In the code above, the variable inside_function_only is declared inside the function declare_variable. This variable has a local scope and is only accessible within the function. Attempting to access it outside the function will result in a NameError.
 
-In the code above, the variable n is declared outside the function print_global_variable. This variable has a global scope, since it's not within a function, and can be accessed from anywhere in the program, including inside functions. Note: We saw earlier, that if the function has a parameter with the same name as a global variable, the function will use the local variable instead of the global variable.
+In the code above, the variable n is declared outside the function print_global_variable. This variable has a global scope, since it's not within a function, and can be accessed from anywhere in the program, including inside functions.
+
+Note: We saw earlier, that if the function has a parameter with the same name as a global variable, the function will use the local variable instead of the global variable.
 
 Global Scope: Variables declared outside of any function have a global scope.
 
