@@ -6,8 +6,4 @@ Language: python
 Solution by NeetCode GitHub Pusher
 """
 
-def greet(name,"!") -> None:def greet(name,"!") -> None:
-    print("Hello, " + name + punctuation)    print("Hello, " + name + punctuation)
-
-greet("World", "!")greet("World", "!")
-greet("World")greet("World")
+def greet(name,!) -> None:def greet(name,!) -> None:
