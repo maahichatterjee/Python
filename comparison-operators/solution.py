@@ -6,13 +6,19 @@ Language: python
 Solution by NeetCode GitHub Pusher
 """
 
-def check_greater_than_or_equal(x, y) -> bool:
-    return(x>=y)
+    return(x!=y)    return(x!=y)
+def check_not_equal(x, y) -> bool:def check_not_equal(x, y) -> bool:
 
 
-# Don't change below this line
-print("2 is equal to 2:", check_equal(2, 2))
-print("-2 is equal to 2:", check_equal(-2, 2))
 
-print("-2 is not equal to 2:", check_not_equal(-2, 2))
-print("2 is not equal to 2:", check_not_equal(2, 2))
+
+def check_less_than(x, y) -> bool:def check_less_than(x, y) -> bool:
+    return(x<y)    return(x<y)
+
+
+def check_greater_than(x, y) -> bool:def check_greater_than(x, y) -> bool:
+    return(x>y)    return(x>y)
+
+
+def check_less_than_or_equal(x, y) -> bool:def check_less_than_or_equal(x, y) -> bool:
+    return(x<=y)    return(x<=y)
